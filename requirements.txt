@@ -1,0 +1,11 @@
+The package requirements for this Python program are:
+- pandas
+- numpy
+- tensorflow
+- gym
+
+You can install these packages using pip:
+
+```
+pip install pandas numpy tensorflow gym
+```
