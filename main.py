@@ -78,7 +78,3 @@ new_portfolio = optimize_portfolio(portfolio_model, current_portfolio)
 
 # Generate visualizations and reports
 generate_visualizations()
-
-
-if __name__ == '__main__':
-    main()
